@@ -1,0 +1,5 @@
+name: SimpleSpleef
+version: '${project.version}'
+main: ru.laifada.spleef.Spleef
+api-version: 1.16
+load: POSTWORLD
